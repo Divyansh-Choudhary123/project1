@@ -1,0 +1,40 @@
+.container {
+    height: 600px;
+    width: 500px;
+    background: grey;
+    position: absolute;
+    left: 500px;
+    top: 50px;
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+#dis input {
+    width: 490px;
+    height: 70px;
+    background-color: chocolate;
+    font-size: 40px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.btn1 {
+    margin-left: 40px;
+}
+
+.btn1 input {
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    /* margin-right: 20px; */
+    background-color: darkolivegreen;
+    color: white;
+    font-size: 20px;
+    border-radius: 15px;
+    padding-left: 10px;
+    box-shadow: 2px 2px 4px black;
+}
